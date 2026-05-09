@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Arena_1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 4371ad74b5799764a9d78a1778aae1c5
+  - enabled: 1
+    path: Assets/Scenes/HubLevel.unity
+    guid: 47c08bba825e9a34f8d27b8c474e3ecc
+  - enabled: 1
+    path: Assets/Scenes/Julian Scene.unity
+    guid: 0a824987ae98f964a96633434f59ef92
   m_configObjects: {}
