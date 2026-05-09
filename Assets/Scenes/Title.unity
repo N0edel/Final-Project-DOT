@@ -559,7 +559,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63e572a37a7ac9147881cc4b84dd2a9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startScene: HubLevel
+  startScene: Julian Scene
 --- !u!4 &1066688022
 Transform:
   m_ObjectHideFlags: 0
